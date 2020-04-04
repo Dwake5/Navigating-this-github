@@ -17,3 +17,12 @@
 <a href="https://github.com/Dwake5/Choose-your-own-adventure-CLI">Choose your own adventure</a>
 
 <a href="https://github.com/Dwake5/RBGgame">RGB Game</a>
+
+
+<h2>Challenge websites</h2>
+
+<a href="https://github.com/Dwake5/Project-Euler">Project Euler</a>
+
+<a href="https://github.com/Dwake5/Codewars">Codewars</a>
+
+<a href="https://github.com/Dwake5/HackerRank">Hacker Rank</a>
