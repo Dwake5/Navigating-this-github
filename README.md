@@ -2,7 +2,9 @@
 
 <h2>Projects (reverse-chronological)</h2>
 <a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a>
+
 <a href="https://github.com/Dwake5/RPG-game">RPG Battle Game</a>
+
 <a href="https://github.com/Dwake5/GymApp-frontend">Kratos</a>
 <a href="https://github.com/Dwake5/FlatGame-FrontEnd">FlatGame</a>
 <a href="https://github.com/Dwake5/MathCountdown/tree/master/countdown-frontEnd">Math Countdown</a>
