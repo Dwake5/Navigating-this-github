@@ -2,6 +2,8 @@
 
 <h2>Projects (reverse-chronological)</h2>
 
+<a href="https://github.com/Dwake5/conways-game-of-life">Game of Life</a>
+
 <a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a>
 
 <a href="https://github.com/Dwake5/RPG-game">RPG Battle Game</a>
