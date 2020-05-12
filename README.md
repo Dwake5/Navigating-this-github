@@ -12,12 +12,12 @@
 <tr>
 <td><a href="https://github.com/Dwake5/conways-game-of-life">Live</a></td>
 <td>Javascript</td>
-  <td><a href="https://github.com/Dwake5/conways-game-of-life">Live</a></td>
+  <td><a href="https://kratos-gym-app.herokuapp.com/signin">Live</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a></td>
 <td>Javascript</td>
-<td><a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a></td>
+<td><a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/RPG-game">RPG Battle Game</a></td>
@@ -27,7 +27,7 @@
 <tr>
 <td><a href="https://github.com/Dwake5/GymApp-frontend">Kratos</a></td>
 <td>React, Ruby on Rails</td>
-<td><a href="https://github.com/Dwake5/GymApp-frontend">Kratos</a></td>
+<td><a href="https://github.com/Dwake5/GymApp-frontend">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/FlatGame-FrontEnd">FlatGame</a></td>
