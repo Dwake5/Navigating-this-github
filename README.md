@@ -2,6 +2,7 @@
 
 <h2>Projects (reverse-chronological)</h2>
 
+<table>
 <tbody>
 <tr>
 <td>cell1_1</td>
