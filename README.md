@@ -12,7 +12,7 @@
 <tr>
 <td><a href="https://github.com/Dwake5/conways-game-of-life">Live</a></td>
 <td>Javascript</td>
-  <td><a href="https://kratos-gym-app.herokuapp.com/signin">Live</a></td>
+  <td><a href="https://kratos-gym-app.herokuapp.com/signin">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a></td>
