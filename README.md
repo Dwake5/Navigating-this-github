@@ -5,14 +5,14 @@
 <table>
 <tbody>
 <tr>
-<td>cell1_1</td>
-<td>cell2_1</td>
-<td>cell3_1</td>
+<td>Name</td>
+<td>Technologies</td>
+<td>Live</td>
 </tr>
 <tr>
-<td>cell1_2</td>
-<td>cell2_2</td>
-<td>cell3_2</td>
+<td>Game of Life</td>
+<td>Javascript</td>
+<td><a href="https://github.com/Dwake5/conways-game-of-life"></td>
 </tr>
 <tr>
 <td>cell1_3</td>
