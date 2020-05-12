@@ -27,7 +27,7 @@
 <tr>
 <td><a href="https://github.com/Dwake5/GymApp-frontend">Kratos</a></td>
 <td>React, Ruby on Rails</td>
-<td><a href="hhttps://kratos-gym-app.herokuapp.com/signin">Yes</a></td>
+<td><a href="https://kratos-gym-app.herokuapp.com/signin">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/FlatGame-FrontEnd">FlatGame</a></td>
