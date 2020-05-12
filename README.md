@@ -5,9 +5,9 @@
 <table>
 <tbody>
 <tr>
-<td>Name</td>
-<td>Technologies</td>
-<td>Live</td>
+<th>Name</th>
+<th>Technologies</th>
+<th>Live</th>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/conways-game-of-life">Live</a></td>
@@ -53,30 +53,11 @@
  <tr>
 <td><a href="https://github.com/Dwake5/RBGgame">RGB Game</a></td>
 <td>Javascript</td>
-<td>No</td>
+   <td><a href="https://dwake5.github.io/RBGgame"/>Yes</a></td>
 </tr>
 </tbody>
 </table>
 
-
-
-<a href="https://github.com/Dwake5/conways-game-of-life">Game of Life</a>
-
-<a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a>
-
-<a href="https://github.com/Dwake5/RPG-game">RPG Battle Game</a>
-
-<a href="https://github.com/Dwake5/GymApp-frontend">Kratos</a>
-
-<a href="https://github.com/Dwake5/FlatGame-FrontEnd">FlatGame</a>
-
-<a href="https://github.com/Dwake5/MathCountdown/tree/master/countdown-frontEnd">Math Countdown</a>
-
-<a href="https://github.com/Dwake5/BlogSphere">Blogsphere</a>
-
-<a href="https://github.com/Dwake5/Choose-your-own-adventure-CLI">Choose your own adventure</a>
-
-<a href="https://github.com/Dwake5/RBGgame">RGB Game</a>
 
 
 <h2>Challenge websites</h2>
