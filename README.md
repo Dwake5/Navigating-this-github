@@ -9,10 +9,15 @@
 <th>Technologies</th>
 <th>Live</th>
 </tr>
+ <tr>
+<td><a href="https://github.com/Dwake5/Mollys-pet---home-care">Molly's pet and home care</a></td>
+<td>React, Rails</td>
+<td>WIP</td>
+</tr>
 <tr>
 <td><a href="https://github.com/Dwake5/conways-game-of-life">Game of Life</a></td>
 <td>Javascript</td>
-  <td><a href="https://dwake5.github.io/conways-game-of-life/">Yes</a></td>
+<td><a href="https://dwake5.github.io/conways-game-of-life/">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/Create-and-auto-solve-maze">Maze solver</a></td>
