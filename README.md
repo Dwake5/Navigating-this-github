@@ -65,7 +65,7 @@
 
 
 
-<h2>Challenge websites</h2>
+<h2>Challenge website solutions</h2>
 
 <a href="https://github.com/Dwake5/Project-Euler">Project Euler</a>
 
