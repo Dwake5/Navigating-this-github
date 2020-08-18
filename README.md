@@ -10,9 +10,9 @@
 <th>Live</th>
 </tr>
  <tr>
-<td><a href="https://github.com/Dwake5/Mollys-pet---home-care">Molly's pet and home care</a></td>
+<td><a href="https://github.com/Dwake5/Mollys-pet---home-care">Molly's Pet & Home Care</a></td>
 <td>React, Rails</td>
-<td>WIP</td>
+<td><a href="https://www.mollyspetandhomecare.com">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/conways-game-of-life">Game of Life</a></td>
