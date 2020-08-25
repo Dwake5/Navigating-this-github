@@ -9,7 +9,12 @@
 <th>Technologies</th>
 <th>Live</th>
 </tr>
- <tr>
+<tr>
+<td><a href="https://github.com/Dwake5/WotR-Battle-Simulation">WotR Battle Simulator</a></td>
+<td>React</td>
+<td>WIP</td>
+</tr>
+<tr>
 <td><a href="https://github.com/Dwake5/Mollys-pet---home-care">Molly's Pet & Home Care</a></td>
 <td>React, Rails</td>
 <td><a href="https://www.mollyspetandhomecare.com">Yes</a></td>
