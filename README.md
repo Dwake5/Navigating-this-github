@@ -10,9 +10,14 @@
 <th>Live</th>
 </tr>
 <tr>
-<td><a href="https://github.com/Dwake5/WotR-Battle-Simulation">WotR Battle Simulator</a></td>
+<td><a href="https://github.com/Dwake5/Fantasy-book">Fighting Fantasy App</a></td>
+<td>React, Redux</td>
+<td>Not yet</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Dwake5/Fire-calculator">Retirement Calaculator</a></td>
 <td>React</td>
-<td>WIP</td>
+<td><a href="https://dwake5.github.io/Fire-calculator/">Yes</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Dwake5/Mollys-pet---home-care">Molly's Pet & Home Care</a></td>
